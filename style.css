@@ -1,0 +1,21 @@
+h1{
+	font:Tahoma, Geneva, sans-serif;
+	font-size:36px;
+}
+
+p{
+	font:Georgia, "Times New Roman", Times, serif;
+	color:#F00;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+
